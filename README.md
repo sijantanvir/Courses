@@ -1,2 +1,2 @@
 # Tutorials
-A repository to stores the codes learnt from OSSU Curriculum.
+A repository to stores the codes learnt from open curriculum.
